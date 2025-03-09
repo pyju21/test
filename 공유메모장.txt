@@ -2,4 +2,4 @@ userA  메모장 확인완료
 user A 작업완료
 user B 메모장 확인완료
 user B 작업완료
-
+user B 작업완료2
